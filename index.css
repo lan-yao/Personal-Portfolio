@@ -316,6 +316,12 @@ ins {
     border: 2px solid var(--colour-background);
 }
 
+.cover0 {
+    background-image: url(images/project-landing-page0.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .cover1 {
     background-image: url(images/projects-tribute.png);
     background-repeat: no-repeat;
@@ -347,7 +353,7 @@ ins {
 }
 
 .cover6 {
-    background-image: url(images/projects-documentation.png);
+    background-image: url(images/project-potofolio.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -435,7 +441,7 @@ ins {
 }
 
 .drawing-section h1 {
-    left: 33%;
+    left: 30%;
     transform: rotate(-49deg);
     color: #FF8158;
     font-size: 4em;
