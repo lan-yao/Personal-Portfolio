@@ -435,12 +435,12 @@ ins {
 }
 
 .drawing-section h1 {
-    left: 26%;
+    left: 33%;
     transform: rotate(-49deg);
     color: #FF8158;
     font-size: 4em;
-    font-family: Raleway, sans-serif;
-    top: 26%;
+    font-family: 'Klee One', cursive;
+    top: 24%;
     position: absolute;
 }
 
